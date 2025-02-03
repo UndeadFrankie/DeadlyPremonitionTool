@@ -1,3 +1,5 @@
+<img src="https://imgur.com/Sg0hfnB.png" width="300">
+
 # Deadly Premonition Tool
 
 A simple toolkit designed to making modding Deadly Premonition easier!
@@ -21,6 +23,10 @@ CURRENTLY DPSERIAL CAN'T BE A DIFFERENT SIZE WITHOUT CRASHING! ENSURE THAT ANY F
 SMALLER FILES WILL BE FILLED WITH 0'S TO MAKE UP THE DIFFERENCE. THIS CAN BE DISABLED WITH THE FILE SIZE FIX CHECKBOX BUT IT'S NOT RECCOMMENDED AND WILL LIKELY BREAK FILE LOADING MAKING THE GAME UNPLAYABLE.
 ```
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Documentation
 ```MODEL KEY:
 01_PL - Player Models
@@ -35,7 +41,3 @@ SMALLER FILES WILL BE FILLED WITH 0'S TO MAKE UP THE DIFFERENCE. THIS CAN BE DIS
 011_FC - ???
 FIXED - ???
 ```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
