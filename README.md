@@ -1,4 +1,3 @@
-=======================
 Deadly Premonition Tool
 =======================
 A simple toolkit designed to making modding Deadly Premonition easier!
