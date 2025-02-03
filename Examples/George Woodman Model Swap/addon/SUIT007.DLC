@@ -1,0 +1,14 @@
+VERSION  = 1
+TYPE     = SUIT
+ID       = 7
+NAME_EN  = George Woodman
+NAME_FR  = George Woodman
+NAME_GE  = George Woodman
+NAME_IT  = George Woodman
+NAME_SP  = George Woodman
+DESC_EN  = Play As George Woodman.
+DESC_FR  = Play As George Woodman.
+DESC_GE  = Play As George Woodman.
+DESC_IT  = Play As George Woodman.
+DESC_SP  = Play As George Woodman.
+PATH     = ADDON/SUIT007
