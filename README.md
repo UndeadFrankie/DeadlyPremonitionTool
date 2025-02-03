@@ -4,6 +4,7 @@
 
 A simple toolkit designed to making modding Deadly Premonition easier!
 Virus Scan 1: https://www.virustotal.com/gui/file/34fef478eea2531a6aa20680ecd7992e0cb3a03543e894497945ae15a584330f
+
 Virus Scan 2: https://www.virustotal.com/gui/file/d76b0038ccd91db93f98b31e12b7ed82cddb345fdb522f7751aa5eaf8003d2ed
 ## Acknowledgements
 
