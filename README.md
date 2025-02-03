@@ -3,7 +3,7 @@
 # Deadly Premonition Tool
 
 A simple toolkit designed to making modding Deadly Premonition easier!
-
+Virus Scan: https://www.virustotal.com/gui/file/34fef478eea2531a6aa20680ecd7992e0cb3a03543e894497945ae15a584330f
 ## Acknowledgements
 
  - Zeddikins - Documented a lot of findings on steam:  
